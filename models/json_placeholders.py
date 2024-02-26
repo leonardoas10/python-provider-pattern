@@ -6,3 +6,5 @@ class JsonPlaceHolder(BaseModel):
     id: int
     title: str
     completed: bool
+    
+
